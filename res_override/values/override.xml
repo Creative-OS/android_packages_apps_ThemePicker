@@ -22,7 +22,7 @@
     </string>
 
     <!-- Package of the stub apk containing the clock content -->
-    <string name="clocks_stub_package" translatable="false">org.lineageos.customization</string>
+    <string name="clocks_stub_package" translatable="false"></string>
 
     <!-- Authority of a System UI provider that provides preview info for available clockfaces. -->
     <string name="clocks_provider_authority" translatable="false">
